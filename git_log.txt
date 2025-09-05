@@ -1,0 +1,45 @@
+commit f9dc8bc81d4850d38d13121a7998eb769dd62e23
+Merge: 2c019d0 62b63a5
+Author: Hurtado <hurtado.angel.0404@gmail.com>
+Date:   Fri Sep 5 03:42:10 2025 -0700
+
+    Merged index-fix into main and resolved conflicts
+
+commit 62b63a5db293303cb7012ed97d494de98ec10abb
+Author: Hurtado <hurtado.angel.0404@gmail.com>
+Date:   Fri Sep 5 03:33:31 2025 -0700
+
+    Added a div of my favorite game to index.html
+
+commit 2c019d0e2e62f94b1820b738287f5a182b7611f3
+Author: Hurtado <hurtado.angel.0404@gmail.com>
+Date:   Fri Sep 5 03:31:39 2025 -0700
+
+    Added a div of my favorite food in index.html
+
+commit af3de2a7ec0bb24a95bd1039836f36169f6cc15d
+Author: Hurtado <hurtado.angel.0404@gmail.com>
+Date:   Fri Sep 5 03:22:49 2025 -0700
+
+    adding README.md to main
+
+commit 41217ea72c91354af88863d9f71f6d1217831ccd
+Merge: 1d2bfc0 51846c9
+Author: Angel <ahurta36@calstatela.edu>
+Date:   Fri Sep 5 03:20:41 2025 -0700
+
+    Merge pull request #1 from Angel-H4123/info-fill
+    
+    filled in the blanks in index.html
+
+commit 51846c984ce3ed318c4c08c6a832478042fe80aa
+Author: Hurtado <hurtado.angel.0404@gmail.com>
+Date:   Fri Sep 5 03:17:01 2025 -0700
+
+    filled in the blanls in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
